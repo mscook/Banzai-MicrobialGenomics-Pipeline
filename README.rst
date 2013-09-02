@@ -32,6 +32,8 @@ Banzai allows for:
     * mapping of NGS reads to reference genomes,
     * ordering of the contigs or scaffolds from draft assemblies against 
       reference genomes,
+    * phylogenomics tasks (whole genome alignment, SNP based, recombination 
+      detection)
     * annotating draft assemblies,
     * enrichment of the annotation of draft assemblies,
     * performing common utility tasks like the creation of BLAST databases, 
