@@ -1,8 +1,13 @@
 Banzai
 ======
 
-The Banzai Pipeline is currently in closed beta. Please star or follow this
-repository to receive updates when it's publicly available.
+The Banzai Microbial Genomics Pipeline is currently in closed beta. Please 
+`star`_ or `follow`_ this repository to receive updates when it's 
+publicly available.
+
+.. _`star`: https://github.com/mscook/Banzai-MicrobialGenomics-Pipeline/star
+
+.. _`follow`: https://github.com/mscook/Banzai-MicrobialGenomics-Pipeline/watchers
 
 
 About
