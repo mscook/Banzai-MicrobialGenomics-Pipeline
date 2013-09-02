@@ -38,7 +38,9 @@ Banzai allows for:
       file format conversion and more.
 
 Banzai supports the NGS platforms that are perdominantly used in Microbial 
-Genomics projects:
+Genomics projects.
+
+The platforms include:
     * `Illumina`_ (single end (SE), paired end (PE) and mate paired (MP)
       reads),
     * `454`_ (SE and PE reads),
@@ -50,7 +52,6 @@ Genomics projects:
 .. _`ABI SOLiD`: http://www.appliedbiosystems.com.au/
 .. _`Pacific Biosciences`: http://www.pacificbiosciences.com/
 
-
 **Banzai is by default geared towards 100 bp Illumina Paired End reads.**
 
 
@@ -61,3 +62,14 @@ Banzai (in most cases) does not provide new NGS algorithms, it harnesses the
 power of published and tested NGS tools. Simply, Banzai simplifies, automates 
 and distributes computational workloads which is the typical bottleneck in 
 analysis of large NGS datasets.
+
+
+Developers
+==========
+
+The following have contributed significantly to Banzai:
+    * Mitchell Stanton-Cook (lead developer)
+    * Elizabeth Skippington (development of phylogenomics section)
+    * Nico Petty (design & testing)
+    * Nouri Ben Zakour (design and testing)
+    * Scott Beatson (design)
