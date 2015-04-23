@@ -10,8 +10,16 @@ publicly available.
 .. _`follow`: https://github.com/mscook/Banzai-MicrobialGenomics-Pipeline/watchers
 
 
+Installation
+------------
+
+See Install.rst_
+
+.. _Install.rst: https://github.com/mscook/Banzai-MicrobialGenomics-Pipeline/blob/master/Install.rst
+
+
 About
-=====
+-----
 
 Banzai is a Microbial Genomics Next Generation Sequencing (NGS) Pipeline Tool 
 developed within `Dr Scott Beatson's Group`_ at the University of Queensland.
@@ -72,7 +80,7 @@ analysis of large NGS datasets.
 
 
 Developers
-==========
+----------
 
 The following have contributed significantly to Banzai:
     * Mitchell Stanton-Cook (lead developer)
