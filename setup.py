@@ -15,7 +15,7 @@ except ImportError:
 from setuptools import setup
 
 __title__ = 'Banzai-NGS'
-__version__ = '0.0.4'
+__version__ = '0.0.5'
 __description__ = ("Banzai is a Microbial Genomics Next Generation Sequencing "
                    "(NGS) Pipeline Tool")
 __author__ = 'Mitchell Stanton-Cook'
@@ -72,7 +72,7 @@ setup(
     packages=packages,
     test_suite="tests",
     package_dir={__title__.split('-NGS')[0]: __title__.split('-NGS')[0]},
-    scripts=[__title__.split('-NGS')[0]+'/'+__title__.split('-NGS')[0],],
+    scripts=[__title__.split('-NGS')[0]+'/'+__title__.split('-NGS')[0]+".py",],
     package_data={},
     #data_files=[('', ['LICENSE', 'requirements.txt', 'README.rst']),
     #            ('docs', html), ('docs/_static', static),
